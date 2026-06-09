@@ -1,10 +1,11 @@
-# Sketch Symbols Sorter Plugin 📐
+# Sketch Symbols Sorter Plugin
 
-<img src="https://github.com/whiteuistore/sketch-ui-theme-switcher/blob/b0225bb57c439505e20f98c1cd8c72ca6c1712bd/assets/Plugin%20Cover.png" alt="UI Theme Switcher for Sketch">
+<img src="https://github.com/whiteuistore/sketch-symbols-sorter-plugin/blob/main/.sketch-assets/banner.png" alt=" Symbols Sorter Plugin for Sketch">
+
 
 **Sketch Symbols Sorter** is a professional Sketch plugin designed to bring perfect order to your components. It automatically organizes your `Symbols` page alphabetically (including the Layer List) and visually groups them into a neat grid determined by your symbol naming conventions.
 
-💡 **Inspiration:** This plugin was heavily inspired by the brilliant [Symbol Organizer by sonburn](https://github.com/sonburn/symbol-organizer). We loved the original concept so much that we decided to bring it back to life. The codebase has been completely refactored, optimized, and rewritten to seamlessly support the latest Sketch updates (Apple Metal rendering engine and modern JS API) with zero legacy crashes.
+💡 **Inspiration:** This plugin was heavily inspired by the brilliant [Symbol Organizer by sonburn](https://github.com/sonburn/symbol-organizer). We loved the original concept so much that we decided to bring it back to life. The codebase has been completely refactored, optimized, and rewritten to seamlessly support the latest Sketch Athens (2025.1) updates  (Apple Metal rendering engine and modern JS API) with zero legacy crashes.
 
 ---
 
