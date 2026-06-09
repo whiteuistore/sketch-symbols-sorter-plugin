@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Sketch Symbols Sorter Plugin Appcast</title>
+    <item>
+      <title>v1.0.0</title>
+      <description>Initial stable release: Automatically organize symbols in the Sketch file</description>
+      <enclosure 
+        url="https://github.com/whiteuistore/sketch-symbols-sorter-plugin/releases/download/v1.0.0/Sketch-Symbols-Sorter.zip" 
+        sparkle:version="1.0.0" 
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
