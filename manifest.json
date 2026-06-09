@@ -1,0 +1,39 @@
+{
+  "name": "Sketch Symbols Sorter",
+  "identifier": "com.sketchplugins.symbols-sorter",
+  "version": "0.0.6",
+  "icon": "icon.png",
+  "description": "Automatically organize symbols in the Sketch file",
+  "author": "WhiteUI.Store",
+  "homepage": "https://www.whiteui.store/",
+  "disableCocoaScriptPreprocessor": true,
+  "commands": [
+    {
+      "name": "Organize & Sort Symbols",
+      "identifier": "run-symbols-sorter",
+      "script": "script.js",
+      "handler": "config"
+    },
+    {
+      "name": "Visit WhiteUI.Store",
+      "identifier": "visit-store",
+      "script": "visit-store.js",
+      "handler": "onRun"
+    },
+    {
+      "name": "Donate",
+      "identifier": "donate-link",
+      "script": "donate.js",
+      "handler": "onRun"
+    }
+  ],
+  "menu": {
+    "title": "Symbols Sorter",
+    "items": [
+      "run-symbols-sorter",
+      "-",
+      "visit-store",
+      "donate-link"
+    ]
+  }
+}
