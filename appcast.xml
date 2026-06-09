@@ -5,6 +5,7 @@
     <item>
       <title>v1.0.0</title>
       <description>Initial stable release: Automatically organize symbols in the Sketch file</description>
+      <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
       <enclosure 
         url="https://github.com/whiteuistore/sketch-symbols-sorter-plugin/releases/download/v1.0.0/Sketch-Symbols-Sorter.zip" 
         sparkle:version="1.0.0" 
