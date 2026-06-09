@@ -11,13 +11,13 @@
 
 ## ℹ️ How it works
 
-### 1. Organize symbols vertically
+### 1. Organize symbols horizontally
 <p align="center">
   <video src="https://github.com/user-attachments/assets/de9b45a6-2982-44fa-b683-001fbc9661df" width="100%" controls>
   </video>
 </p>
 
-### 2. Organize symbols horizontally
+### 2. Organize symbols vertically
 <p align="center">
   <video src="https://github.com/user-attachments/assets/83ad30ed-516d-434e-8e89-2c2d81f9d846" width="100%" controls>
   </video>
