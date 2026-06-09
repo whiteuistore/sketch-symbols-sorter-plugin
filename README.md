@@ -1,10 +1,24 @@
 # Sketch Symbols Sorter Plugin 📐
 
+<img src="https://github.com/whiteuistore/sketch-ui-theme-switcher/blob/b0225bb57c439505e20f98c1cd8c72ca6c1712bd/assets/Plugin%20Cover.png" alt="UI Theme Switcher for Sketch">
+
 **Sketch Symbols Sorter** is a professional Sketch plugin designed to bring perfect order to your components. It automatically organizes your `Symbols` page alphabetically (including the Layer List) and visually groups them into a neat grid determined by your symbol naming conventions.
 
 💡 **Inspiration:** This plugin was heavily inspired by the brilliant [Symbol Organizer by sonburn](https://github.com/sonburn/symbol-organizer). We loved the original concept so much that we decided to bring it back to life. The codebase has been completely refactored, optimized, and rewritten to seamlessly support the latest Sketch updates (Apple Metal rendering engine and modern JS API) with zero legacy crashes.
 
 ---
+
+## ℹ️ How it works
+
+### 1. Generate a new frame (artboard) 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/51c7a9ed-f2fa-4ce1-8b78-7b95aa1f79c1" width="100%" controls>
+  </video>
+</p>
+
+
+---
+
 
 ### ✨ Features & Capabilities
 
@@ -42,8 +56,15 @@
 
 ---
 
-### 👨‍💻 About
+## ☕ Support & Resources
 
-A lightweight and modernized Sketch plugin that brings ultimate order to your design systems and symbol libraries. 
+If you find this plugin helpful, feel free to explore more resources or support the development:
 
-Created and maintained by **[WhiteUI.Store](https://www.whiteui.store/)**.
+* **Official Website:** [WhiteUI.Store](https://www.whiteui.store/)
+* **Support the Project:** [Buy Me a Coffee](https://buymeacoffee.com/whiteuistore)
+* **Sketch Plugins:** [See more Sketch Plugins](https://www.whiteui.store/sketch-plugins)
+
+---
+
+### License
+This project is available under the MIT License.
