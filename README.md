@@ -41,9 +41,9 @@
 
 ### 🛠 Installation
 
-1. Download the repository as a `.zip` file from the **Releases** section or click the green **Code** button and select **Download ZIP**.
+1. [Download the repository](https://github.com/whiteuistore/sketch-symbols-sorter-plugin/releases/download/v1.0.0/Sketch-Symbols-Sorter.zip) as a `.zip` file from the **Releases** section or click the green **Code** button and select **Download ZIP**.
 2. Unzip the downloaded folder.
-3. Ensure the folder is named `Sketch-Symbols-Sorter.sketchplugin` (remove the `-main` or `-master` suffix if GitHub added it).
+3. Ensure the file is named `Sketch-Symbols-Sorter.sketchplugin`.
 4. Double-click the folder to automatically install it in Sketch, or drag and drop it into `Plugins -> Manage Plugins...`.
 
 ---
